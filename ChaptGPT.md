@@ -1,0 +1,2 @@
+What is a class in JS?
+In JavaScript, a class is a blueprint for creating objects with predefined properties and methods. Classes help in organizing code and implementing object-oriented programming (OOP) principles, like inheritance, encapsulation, and abstraction. Though JavaScript is a prototype-based language, ES6 introduced the class syntax to make it easier to write and understand code that uses objects and inheritance.
